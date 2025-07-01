@@ -15,10 +15,9 @@ const app = express();
 // Opciones CORS
 const corsOptions = {
   origin: [
-    'https://rutero-lizeth.vercel.app', // producción
+    'https://frontedcalzaoro.vercel.app', // producción
     'http://localhost:5173',            // desarrollo local
     'http://localhost:5174',            // desarrollo local
-    'https://fronted-beta.vercel.app',
   ],
   credentials: true,
 };
