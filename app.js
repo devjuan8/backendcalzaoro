@@ -18,6 +18,7 @@ const corsOptions = {
     'https://frontedcalzaoro.vercel.app', // producción
     'http://localhost:5173',            // desarrollo local
     'http://localhost:5174',            // desarrollo local
+    'https://www.calzaoro.com',            // desarrollo local
   ],
   credentials: true,
 };
